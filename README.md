@@ -38,7 +38,7 @@ Crop yield prediction is an important agricultural problem. The Agricultural yie
 -   **Feature Scaling and Transformation:** Applied appropriate scaling methods, such as Min-Max scaling, to normalize numeric features, ensuring a consistent impact on model training.
     
 
-### 4. Machine Learning Models
+### 4. Machine Learning Models & Evaluation
 
 -   **Regression Models:** Implemented advanced regression models, including Random Forest, XGBoost, and Bagging Regressor, to predict crop yield.
     
